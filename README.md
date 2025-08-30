@@ -5,4 +5,4 @@ Estarei à disposição para ajudar a todos quando possível. Qualquer dúvida, 
 
 ## Nota: Não copie e cole o código. Use o repositório para comparar a solução dos problemas e tirar suas dúvidas, pois assim você aprenderá de forma mais efetiva.
 
-*Dom Henrique, 30/08/2025*
+*[Dom Henrique](https://github.com/Dom-Henrique), 30/08/2025*
